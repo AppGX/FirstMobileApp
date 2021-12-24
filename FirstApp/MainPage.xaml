@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstApp.MainPage">
+
+    <StackLayout Padding="5,5,5,5" x:Name="_stackLayout">
+        <Frame BackgroundColor="#1476D2" Padding="24" CornerRadius="10">
+            <Label Text="Header..." HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        
+    </StackLayout>
+</ContentPage>
