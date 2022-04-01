@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstApp.AppShell"
+       xmlns:views ="clr-namespace:FirstApp.Views"
+       >
+    <TabBar>
+        <ShellContent
+            Title="Notes"
+            Icon="icon_feed.png"
+            ContentTemplate="{DataTemplate views:NotesPage}"/>
+        <ShellContent
+            Title="About"
+            Icon="icon_about.png"
+            ContentTemplate="{DataTemplate views:AboutPage}"/>
+    </TabBar>
+</Shell>

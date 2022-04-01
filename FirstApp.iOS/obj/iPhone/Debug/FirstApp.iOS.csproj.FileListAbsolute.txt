@@ -61,3 +61,11 @@ C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\obj\iPhone\Debug\FirstApp.iOS.
 C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\obj\iPhone\Debug\FirstApp.iOS.csproj.CopyComplete
 C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\obj\iPhone\Debug\FirstApp.iOS.exe
 C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\obj\iPhone\Debug\FirstApp.iOS.pdb
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\AppGX\source\repos\FirstApp\FirstApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll

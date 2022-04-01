@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstApp.Page9">
+    <!--StackLayout Margin="0">
+        <Frame BorderColor="Gray">
+            <StackLayout Orientation="Horizontal">
+                <BoxView Color="Red"/>
+                <Label Text="1 element" VerticalOptions="Center"/>
+            </StackLayout>
+        </Frame>
+        <Frame BorderColor="Gray">
+            <StackLayout Orientation="Horizontal">
+                <BoxView Color="Green"/>
+                <Label Text="2 element" VerticalOptions="Center"/>
+            </StackLayout>
+        </Frame>
+        <Frame BorderColor="Gray">
+            <StackLayout Orientation="Horizontal">
+                <BoxView Color="Blue"/>
+                <Label Text="3 element" VerticalOptions="Center"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout-->
+</ContentPage>

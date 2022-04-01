@@ -14,7 +14,7 @@ namespace FirstApp.Droid
         {
             base.OnCreate(savedInstanceState);
 
-            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            Xamarin.Essentials.Platform.Init(this, savedInstanceState); // Add 12
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }
@@ -22,7 +22,7 @@ namespace FirstApp.Droid
         {
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
 
-            base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+            base.OnRequestPermissionsResult(requestCode, permissions, grantResults); // Add 12
         }
     }
 }

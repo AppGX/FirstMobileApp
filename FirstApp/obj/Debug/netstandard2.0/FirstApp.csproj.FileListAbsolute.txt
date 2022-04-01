@@ -15,3 +15,12 @@ C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\ref\First
 C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb
 C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Page7.xaml.g.cs
 C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Page8.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Page9.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Page10.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Page11.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Page12.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Page13.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Views\NoteAddingPage.xaml.g.cs
+C:\Users\AppGX\source\repos\FirstApp\FirstApp\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
